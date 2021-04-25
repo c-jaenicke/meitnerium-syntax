@@ -1,0 +1,15 @@
+{
+  "name": "meitnerium-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A custom, more modern and bright theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/c-jaenicke/meitnerium-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
