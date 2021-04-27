@@ -1,5 +1,13 @@
-# meitnerium-syntax theme
+# Atom Meitnerium Syntax
 
-A short description of your theme.
+A custom, more modern and bright theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Meitnerium is a synthetic chemical element with the symbol Mt and atomic number 109. It is an extremely radioactive synthetic element.
+
+Based on my custom [Meitnerium Theme](https://gitlab.com/c-jaenicke/meitnerium-theme)
+
+[Atom Link](https://atom.io/themes/meitnerium-syntax)
+
+## Image
+
+![Editor](https://raw.githubusercontent.com/c-jaenicke/meitnerium-syntax/master/.images/atom-preview.png)
